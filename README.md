@@ -1,4 +1,4 @@
-# ML Model- Training and Testing Pipeline
+# ML Model - Training and Testing Pipeline
 
 This project demonstrates a complete machine learning pipeline, including training and evaluation of a model using Jupyter notebooks in Google Colab. It includes two main components:
 
